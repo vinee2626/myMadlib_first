@@ -5,3 +5,4 @@ import random
 
 if __name__ == "__main__":
     n = random.choice([madlib2, madlib1, madlib3])
+    n.madlib
